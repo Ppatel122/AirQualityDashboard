@@ -1,7 +1,7 @@
 # Air-Quality Dashboard and GIS Mapping
 
 ## Introduction
-This project was developed by ECE 493 students Roberto Villarreal Andrade, Pranj Patel and Jay Pasrija at the University of Alberta in collaboration with Professor Amina Hussein and the Tomorrow Foundation. The application provides real-time air quality monitoring using PurpleAir sensors and GIS mapping technology. Users can view air quality data, receive alerts, and gain insights to make informed health decisions.
+This project was developed by Roberto Villarreal Andrade, Pranj Patel and Jay Pasrija at the University of Alberta in collaboration with Professor Amina Hussein and the Tomorrow Foundation. The application provides real-time air quality monitoring using PurpleAir sensors and GIS mapping technology. Users can view air quality data, receive alerts, and gain insights to make informed health decisions.
 
 You can explore the application here: [Air-Quality Dashboard](https://edmonton-air-quality-299f003c3f64.herokuapp.com/).  
 *Note: Some functionality may be unavailable as maintenance has been transitioned to another student.*
