@@ -39,14 +39,18 @@ The architecture consists of three main components:
    - View air quality sensor locations in Edmonton.
    - Get real-time BC AQHI+ and PM2.5 values displayed on the map.
    - Zoom, pan, and click for detailed sensor data.
+   <img src="https://github.com/Ppatel122/AirQualityDashboard/blob/main/img/Map.png" width="500"/>  
 2. **Address-Based Search**:
    - Locate air quality data by entering an address or using current location services.
    - Displays data from the nearest sensor and highlights areas with poor air quality.
+   <img src="https://github.com/Ppatel122/AirQualityDashboard/blob/main/img/Address.png" width="600"/> 
 3. **Custom Alerts**:
    - Set thresholds for PM2.5 or BC AQHI+ levels.
    - Receive timely notifications when air quality exceeds limits or returns to safe levels.
+   <img src="https://github.com/Ppatel122/AirQualityDashboard/blob/main/img/Alerts.png" width="600"/>  
 4. **Data Visualization**:
    - Time-series plots showing historical air quality trends over adjustable time frames (hourly, daily, weekly, monthly).
+   <img src="https://github.com/Ppatel122/AirQualityDashboard/blob/main/img/Graph.png" width="400"/>
 
 ## Future Directions
 The system was designed with scalability in mind, allowing for:
@@ -55,5 +59,4 @@ The system was designed with scalability in mind, allowing for:
 - Integration with additional air quality indices or environmental data sources.
 
 ## Usage and Limitations
-This app provides a valuable tool for air quality monitoring and public health awareness. However, note that its data relies on external APIs and the accuracy of sensors. Users are encouraged to verify critical decisions with local health authorities during rapidly changing air conditions.
-
+This app provides a valuable tool for air quality monitoring and public health awareness. However, note that its data relies on external APIs and the accuracy of sensors. Users are encouraged to verify critical decisions with local health authorities during rapidly changing air conditions. 
